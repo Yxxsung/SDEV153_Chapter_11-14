@@ -130,6 +130,11 @@ form{
     columns: 2 width(10em, 1fr);
 }
 
+video{
+    float: right;
+    margin: 2em;
+}
+
 submit_button{
     grid-column: 2;
     width: 9em;
